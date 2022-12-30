@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yewbdar-DreamBig
 - 👀 I’m interested in learning JavaScript.
-- 🌱 I’m currently learning Selenium with Java.
-- 💞️ I’m looking to collaborate on building automation framework.
+- 🌱 I’m currently learning Cucumber.
+- 💞️ I’m looking to collaborate on building automation framework with Selenium Java.
 - 📫 You can reach to me through seleniyoye@gmail.com.
 
 <!---
